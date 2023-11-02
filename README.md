@@ -1,17 +1,8 @@
-# shoping
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# VODAI" 
+🌟 Features:
+=> Authentication: Securely log in or register using API integration for a seamless user experience.
+=> Home Screen: Explore our latest offers, utilize the search bar to find any product, and discover new arrivals.
+=> Categories: Easily navigate through product categories with interactive buttons.
+=> Product Details: Dive into product details, including names, descriptions, and prices, and you can add it to your cart.
+=> Shopping Cart: Add your favorite items to the cart and track your purchases effortlessly.
+=> Explore Screen: Find your favorite products and categories in one place.
+=> Profile: Personalize your profile
